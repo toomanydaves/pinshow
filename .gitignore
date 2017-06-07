@@ -1,0 +1,11 @@
+# OS specific files #
+.DS_Store
+.DS_Store?
+
+# Temp files #
+*~
+.*.sw*
+.swp
+
+# Generated content #
+node_modules/
