@@ -1,0 +1,13 @@
+{
+  "name": "@toomanydaves/pinshow"
+, "version": "0.1.0"
+, "private": false
+, "description": "OAuth for Pinterest, board or pins selector, then a full screen slideshow of images. Created for use with FireTV."
+, "keywords": [
+    "pinterest"
+  , "slideshow"
+  , "firetv"
+  ] 
+, "homepage": "http://pinshow.herokuapp.com"
+, "license": "MIT"
+}
